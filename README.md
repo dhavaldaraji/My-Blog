@@ -17,16 +17,16 @@ And I learn from youtube channel name "corey schafer".
 
 <h2> Requirement Packages </h2>
 
--asgiref                3.2.7,
--Django                 3.0.5,
--django-appconf         1.0.4,
--django-crispy-forms    1.9.0,
--django-image-cropping  1.3.0,
--Pillow                 7.1.1,
--pip                    20.0.2,
--psycopg2               2.8.5,
--pytz                   2019.3,
--setuptools             46.0.0,
--sqlparse               0.3.1,
--wheel                  0.34.2,
+- asgiref                3.2.7,
+- Django                 3.0.5,
+- django-appconf         1.0.4,
+- django-crispy-forms    1.9.0,
+- django-image-cropping  1.3.0,
+- Pillow                 7.1.1,
+- pip                    20.0.2,
+- psycopg2               2.8.5,
+- pytz                   2019.3,
+- setuptools             46.0.0,
+- sqlparse               0.3.1,
+- wheel                  0.34.2
 
